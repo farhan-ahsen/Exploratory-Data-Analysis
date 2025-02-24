@@ -21,6 +21,13 @@ Key Insights:
 6.	Correlation Analysis:
 ○	A strong positive correlation (0.65) was found between churn and monthly charges.
 ○	Weak or negligible correlations were observed with variables like total charges, indicating that churn is more strongly influenced by monthly payment burdens.
+
+![Capture2](https://github.com/user-attachments/assets/b7379e9d-6171-4ac9-9db4-18f03a81da2d)
+![Capture1](https://github.com/user-attachments/assets/6f8b78f9-f2cc-42c2-9dbc-fcc594d697dd)
+![Capture](https://github.com/user-attachments/assets/415947cd-7cd2-442c-950d-15fc28680bfd)
+
+
+
 Recommendations:
 
 1.	Customer Retention Programs:
